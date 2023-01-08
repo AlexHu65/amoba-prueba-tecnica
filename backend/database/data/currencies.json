@@ -1,0 +1,14 @@
+[
+	{
+		"id" : 1,
+        "name": "Peso Mexicano",
+        "code": "MXN",
+        "country_code": "MX"
+	},
+	{
+		"id" : 2,
+        "name": "Dolar Estadounidense",
+        "code": "USD",
+        "country_code": "US"
+	}
+]
